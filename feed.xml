@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>EA1HET</title>
+    <link href="https://ea1het.com/feed.xml" rel="self" />
+    <link href="https://ea1het.com" />
+    <updated>2024-09-22T16:23:28+02:00</updated>
+    <author>
+        <name>Jonathan Gonzalez</name>
+    </author>
+    <id>https://ea1het.com</id>
+
+    <entry>
+        <title>Tuning on the JPC-12</title>
+        <author>
+            <name>Jonathan Gonzalez</name>
+        </author>
+        <link href="https://ea1het.com/tuning-on-the-jpc-12.html"/>
+        <id>https://ea1het.com/tuning-on-the-jpc-12.html</id>
+
+        <updated>2024-09-22T16:23:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <h1>Description</h1>
+<p>The JPC-12 (also known as PAC-12) is a portable HF vertical antenna that features a very handy set of parts that assemble quickly and that is able to cover, officially, 40m through 6m, but, unofficially, 60 and 80m as well. It handles up to 100 watts.</p>
+<p>This antenna has been in production for several years now. The new version of the antenna, put into the market in October 2020 included an improved version of the main tuning coil. This new version of the tuning coil has been marked with the right number of turns for the 20m and 40m bands, making it easier and faster to set up, even without an antenna analyser.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Description</h1>
+<p>The JPC-12 (also known as PAC-12) is a portable HF vertical antenna that features a very handy set of parts that assemble quickly and that is able to cover, officially, 40m through 6m, but, unofficially, 60 and 80m as well. It handles up to 100 watts.</p>
+<p>This antenna has been in production for several years now. The new version of the antenna, put into the market in October 2020 included an improved version of the main tuning coil. This new version of the tuning coil has been marked with the right number of turns for the 20m and 40m bands, making it easier and faster to set up, even without an antenna analyser.</p>
+
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.00.44.png" alt="" width="948" height="1271" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.00.44-2xl.png 1600w"></figure>
+<figure class="post__image"><img  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.01.23.png" alt="" width="348" height="436" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.01.23-2xl.png 1600w"></figure>.   <figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.02.12.png" alt="" width="329" height="438" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.02.12-2xl.png 1600w"></figure>
+<p><em>Figures 1, 2 and 3: Installation detail of the JPC-12 / PAC-12 antenna on the field. In red, Paracord ropes acting as guy ropes. On the field, and barely perceptible, counterpoise lines (8x) evenly distributed around the antenna. Detail on the counterpoise used in order to improve overall antenna performance. Detail on one of the setups for 10m band.</em></p>
+<p class="msg msg--info"><span class="notion-enable-hover" data-token-index="0">If an additional coil without preselector slider (can be acquired separately or customised) is added to the installation, with the two coils superimposed together, and adding an equivalent counterpose to a 20 meter ground mesh, the JPC-12 antenna can work in the 80m band as well. </span><!-- notionvc: 74dd956c-1f39-44f7-b74a-01c78f030985 --></p>
+<p><em> <!-- notionvc: 1237da72-e0d0-49a7-94a9-e3e3f5d7f8c8 --><!-- notionvc: b6915784-7dfc-48ee-adba-28bc56a862d3 --></em></p>
+<h1>Technical components</h1>
+<h3>Standard parts</h3>
+<ul>
+<li>1 x Coil with tuning pre-selection for 20m and 40m bands.</li>
+<li>1 x Extendable aluminum rod of 0,328m folded and 2,545m when fully extended.</li>
+<li>4 x Fixed length aluminum alloy mast sections, 0,323m each.</li>
+<li>1 x Wire trap (hidden coil) with the main UHF (SO-239) connector.</li>
+<li>1 x Ground anchor spike.</li>
+</ul>
+<p><!-- notionvc: ec708804-0c2c-4e0a-b7b9-73169c120c73 --></p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-15.58.15.png" alt="" width="1251" height="743" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-15.58.15-2xl.png 1600w"></figure>
+<p><em>Figure 4: Standard parts of the JPC-12 antenna</em></p>
+<h3>Extra parts added by myself</h3>
+<ul>
+<li>
+<p>8 x Counterpoise cables made of 5m of wire with 0,75 mm2 section each.</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.07.12.png" alt="" width="678" height="322" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.07.12-2xl.png 1600w"></figure>
+<p><em>Figure 5: Detail on the formerly used counterpoise cabling. Now using the plate in Figure 6</em>.</p>
+</li>
+<li>
+<p>1 x Aluminum alloy ground plate for counterpoise cabling connection. This is an improved version of the interconnection shown in Figure 5, above.</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.08.43.png" alt="" width="675" height="475" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.08.43-2xl.png 1600w"></figure>
+<p><em>Figure 6: Detail on the aluminum alloy ground plate used to interconnect all the counterpoise cables</em></p>
+</li>
+<li>
+<p>1 x Coil for 40m band. This coil can be used alone for the aforementioned band or it can also be used in combination with the standard pre-selectable coil and an elongated extendable aluminum rod to reach 60m and 80m bands.</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.09.07.png" alt="" width="674" height="513" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.09.07-2xl.png 1600w"></figure>
+<p><em>Figure 7: Coil for 40m band.</em></p>
+</li>
+</ul>
+<p> </p>
+<h1>Operational setup<!-- notionvc: 44a62417-acaa-438f-917e-265994eb4f48 --></h1>
+<table id="fff3eee4-f6b9-81a0-be95-dc9182f03208" class="simple-table" style="width: 110.114%;">
+<thead class="simple-table-header">
+<tr id="fff3eee4-f6b9-8169-950d-cd0aa2ee268b">
+<th id="vP;E" class="simple-table-header-color simple-table-header" style="width: 10.7905%;">Band</th>
+<th id="Ch?n" class="simple-table-header-color simple-table-header" style="width: 16.0602%;">Tuning frequency</th>
+<th id="gM&#96;M" class="simple-table-header-color simple-table-header" style="width: 12.6725%;">VSWR on Icom IC-705</th>
+<th id="BoIw" class="simple-table-header-color simple-table-header" style="width: 10.4141%;">Coil in use?</th>
+<th id="}VEV" class="simple-table-header-color simple-table-header" style="width: 17.6913%;">Theoretical length for 1/4 <strong>λ</strong></th>
+<th id="zJ[A" class="simple-table-header-color simple-table-header" style="width: 17.8168%;">Extendable rod length</th>
+<th id="n|KE" class="simple-table-header-color simple-table-header" style="width: 14.4291%;"># of fixed length sections</th>
+</tr>
+</thead>
+<tbody>
+<tr id="fff3eee4-f6b9-8140-adc3-d50e79aab2ae">
+<td id="vP;E" class="" style="width: 10.7905%;">80m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">3.55 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">-</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">See note 1️⃣ below</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">-</td>
+<td id="n|KE" class="" style="width: 14.4291%;">-</td>
+</tr>
+<tr id="fff3eee4-f6b9-81d2-bb8d-da52a60b74b1">
+<td id="vP;E" class="" style="width: 10.7905%;">60m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">5.35 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">-</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">See note 2️⃣ below</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">-</td>
+<td id="n|KE" class="" style="width: 14.4291%;">-</td>
+</tr>
+<tr id="fff3eee4-f6b9-81b3-9d65-dd95bbb19bf1">
+<td id="vP;E" class="" style="width: 10.7905%;">40m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">7.1 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.4</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">Coil in 40 MHz position (silver)</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">2,4m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-81d8-af44-ed3d252ab8e0">
+<td id="vP;E" class="" style="width: 10.7905%;">30m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">10.125 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.5</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">See note 3️⃣ below</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">2,202m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-8145-a0a3-f4415086324d">
+<td id="vP;E" class="" style="width: 10.7905%;">20m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">14.2 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.0</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">Coil in 20 MHz position (gold)</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">2,332m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-8180-97e1-e7c83325ad45">
+<td id="vP;E" class="" style="width: 10.7905%;">17m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">18.12 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.2</td>
+<td id="BoIw" class="" style="width: 10.4141%;">No</td>
+<td id="}VEV" class="" style="width: 17.6913%;">4,25m</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">2,361m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-818b-8ee3-dad97c6afa20">
+<td id="vP;E" class="" style="width: 10.7905%;">15m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">21.3 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.3</td>
+<td id="BoIw" class="" style="width: 10.4141%;">No</td>
+<td id="}VEV" class="" style="width: 17.6913%;">3,75m</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">1,81m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-81e2-8f34-e200f4ea4b24">
+<td id="vP;E" class="" style="width: 10.7905%;">12m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">24.9 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.4</td>
+<td id="BoIw" class="" style="width: 10.4141%;">No</td>
+<td id="}VEV" class="" style="width: 17.6913%;">3m</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">1,57m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+<tr id="fff3eee4-f6b9-81e6-b01c-c9a6e406dc42">
+<td id="vP;E" class="" style="width: 10.7905%;">10m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">28.4 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.3</td>
+<td id="BoIw" class="" style="width: 10.4141%;">Yes</td>
+<td id="}VEV" class="" style="width: 17.6913%;">See note 4️⃣ below</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">2,25m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">None</td>
+</tr>
+<tr id="fff3eee4-f6b9-814e-816a-cf8caed21c6f">
+<td id="vP;E" class="" style="width: 10.7905%;">10m</td>
+<td id="Ch?n" class="" style="width: 16.0602%;">28.4 MHz</td>
+<td id="gM&#96;M" class="" style="width: 12.6725%;">1 : 1.4</td>
+<td id="BoIw" class="" style="width: 10.4141%;">No</td>
+<td id="}VEV" class="" style="width: 17.6913%;">2,5m</td>
+<td id="zJ[A" class="" style="width: 17.8168%;">1,271m</td>
+<td id="n|KE" class="" style="width: 14.4291%;">4 or 1,3m</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<blockquote>
+<p>*<strong>NOTE<br></strong></p>
+<p>Above table of values show data gathered in my specific environmental conditions. Use as mere reference only. For best performance, tune your antenna system on-site before operating. When tuning, always use low power.</p>
+<p>In regard to measures, please note the extendable rod has been measured including the threaded part of the rod, as it’s indicated in the Figure 6, below.</p>
+<p>In regard to measures related to the black coated fixed length aluminum parts, measures were taken without the threaded part of the rod and all of the elements measure the same.*</p>
+</blockquote>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.11.41.png" alt="" width="706" height="139" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.11.41-2xl.png 1600w"></figure>
+<p><em>Figure 8: Detail on how measures were taken on the aluminum extendable rod</em><!-- notionvc: 65e93a4f-decf-4324-ab21-a57ca832be78 --></p>
+<p class="msg msg--highlight ">[1]—&gt; Tuning on 80m (last update: Apr 23, 2023; back for further details)<br><br>This antenna is originally not meant to be used on 80m, but, using two coils together (the standard preselectable coil plus another fixed coil designed for 40m) in combination with a long extendable rod can do the trick and make a match.*</p>
+<p class="msg msg--highlight ">[2]—&gt; Tuning on 60m (last update: Apr 23, 2023; back for further details) <br><br>This antenna is originally not meant to be used on 60m. <br><br>I’m yet researching how to approach this band segment. Most probably I will be using a second fixed coil, designed for 40m, and I will be setting up the preselectable band on the antenna’s standard coil close to 20m mark. With this setup I’ll be trying to get closer to 60m band so finally I can play with the extendable aluminum rod seeking for a match.*</p>
+<p class="msg msg--highlight ">[3]—&gt; Tuning on 30m<br><br>In order to tune the JPC-12 for 30m band (10.100 MHz - 10.150 MHz) it’s necessary to place the tuning knob <strong>9 turns below the red &amp; gold mark,</strong> that corresponds to 20m band, and use the number of fixed length section with aluminum rod extended to the length detailed in the “Operational Setup” table above.*</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.12.49.png" alt="" width="705" height="446" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.12.49-2xl.png 1600w"></figure>
+<p><em>Figure 9: Tuning position obtained for 30m. The preselector slider should be placed at the 9th turn counting to the bottom from red and gold mark in the coil.</em><!-- notionvc: 2dff0b1c-0fe7-40d8-b6ca-dd4a69627464 --></p>
+<p class="msg msg--highlight "><span class="notion-enable-hover" data-token-index="0">[4]—&gt; Tuning on 10m with antenna coil<br><br></span><span class="notion-enable-hover" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" data-token-index="0">The 10m band can be tuned in two different ways, with or without using the antenna coil. It might sound bizarre using the 20 MHz / 40 MHz coil to tune for 10m band but the truth is that both ways are acceptable approaches as NanoVNA measures showed. See below the Smith Charts for more details. While tuning with the coil, place the tuning knob </span><span class="notion-enable-hover" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" data-token-index="1">6 turns above the red &amp; gold mark</span><span class="notion-enable-hover" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" data-token-index="2">, </span><span class="notion-enable-hover" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" data-token-index="3">that corresponds to 20m band, and use the number of fixed length section with aluminum rod extended to the length detailed in the “Operational Setup” table above</span> </p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/4/Screenshot-2024-09-22-at-16.13.53.png" alt="" width="705" height="468" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-xs.png 300w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-sm.png 480w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-md.png 768w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-lg.png 1024w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-xl.png 1360w ,https://ea1het.com/media/posts/4/responsive/Screenshot-2024-09-22-at-16.13.53-2xl.png 1600w"></figure>
+<p><em>Figure 10: Tuning position obtained for 10m. The preselector slider should be placed at the 6th turn counting to the top from red and gold mark in the coil. In this case, the turn to be used it’s the top one.</em> <!-- notionvc: 4ce98d84-cf88-4926-a9e9-01128c6ca9ad --></p>
+<h1>NanoVNA-H readings (SWR &amp; Smith Chart)</h1>
+<ul>
+<li>
+<p>NanoVNA firmware / hardware details:</p>
+<ul>
+<li>Version: 1.2.14 [p:101, IF:12k, ADC:192k, LCD:320x240]</li>
+<li>Build time: Aug 31, 2022 - 13:23:46</li>
+<li>Architecture: ARMv6 - Core Variant: Cortex-M0</li>
+<li>Platform: STM32F072xB</li>
+<li>TCX0 = 26.000 000 MHz</li>
+</ul>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22fb53b6-9ab4-4501-967b-89bbdb536899/nanovna.jpg" alt="Figure 11: NanoVNA-H device detail. " data-is-external-image="true"></p>
+<p>Figure 11: NanoVNA-H device detail.</p>
+</li>
+<li>
+<p>Location where measurements were made</p>
+<ul>
+<li>GPS coordinates: 43.5699232,-5.7025287 [<a href="https://www.google.com/maps/place/43%C2%B034'11.7%22N+5%C2%B042'09.1%22W/@43.5699232,-5.7051036,2102m/data=!3m1!1e3!4m4!3m3!8m2!3d43.5699232!4d-5.7025287">Google</a>][<a href="https://maps.apple.com/?address=Campa%20Torres%20Archaeological-Nature%20Park,%20Carretera%20de%20la%20Campa%20de%20Torres,%203834,%2033212,%20Asturias,%20Spain&amp;ll=43.569923,-5.702529&amp;q=Campa%20Torres%20Archaeological-Nature%20Park">Apple</a>][<a href="https://www.openstreetmap.org/search?query=43.5699232%2C-5.7025287#map=18/43.5699232/-5.7025287">OpenStreet</a>]</li>
+<li>Grid Locator: <a href="https://www.karhukoti.com/Maidenhead-Grid-Square-Locator/?grid=IN73dn">IN73dn</a> / <a href="https://www.karhukoti.com/Maidenhead-Grid-Square-Locator/?grid=IN73dn56">IN73dn56</a> or <a href="https://www.karhukoti.com/Maidenhead-Grid-Square-Locator/?grid=IN73dn56">IN73dn 56qs</a></li>
+</ul>
+</li>
+<li>
+<p>Calibration:</p>
+<ul>
+<li>Process:
+<ul>
+<li>Single calibration per measurement / per band.</li>
+<li>Start / End frequencies set before calibration per each measured band.</li>
+</ul>
+</li>
+<li>Materials used in calibration:
+<ul>
+<li>Cable used:
+<ul>
+<li>Brand / Model: Messi &amp; Paoloni <a href="https://messi.it/en/catalogue/50-ohm-cables-ham-radio/hyperflex-5.htm">Hyperflex 5</a></li>
+<li>Length: 6m.</li>
+</ul>
+</li>
+<li>Connectors used:
+<ul>
+<li>Brand / Model: <a href="https://messi.it/en/catalogue/50-ohm-rf-coaxial-cable.htm">Messi &amp; Paoloni</a>.</li>
+<li>Socket type(s): SMA, BNC and UHF (SO-239) upon demand.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3>Ham Radio band: 80m</h3>
+<p>(Screenshot pending to be added here)</p>
+<h3>Ham Radio band: 60m</h3>
+<p>(Screenshot pending to be added here)</p>
+<h3>Ham Radio band: 40m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c5ca015-a27c-44c0-97f5-de6f50564160/40m_-_56A28017.png" alt="Figure 12: 40m band, tuning on 7.100 MHz" data-is-external-image="true"></p>
+<p>Figure 12: 40m band, tuning on 7.100 MHz</p>
+<h3>Ham Radio band: 30m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aba6b743-456b-4312-92d0-2cc8b127c5c8/30m_-_56A280B3.png" alt="Figure 13: 30m band, tuning on 10.125 MHz" data-is-external-image="true"></p>
+<p>Figure 13: 30m band, tuning on 10.125 MHz</p>
+<h3>Ham Radio band: 20m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2469d5b1-da70-479d-86c2-854394ce525f/20m_-_56A27EE0.png" alt="Figure 14: 20m band, tuning on 14.200 MHz" data-is-external-image="true"></p>
+<p>Figure 14: 20m band, tuning on 14.200 MHz</p>
+<h3>Ham Radio band: 17m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af70f528-6364-4392-9555-8f446a17244a/17m_-_56A27E55.png" alt="Figure 15: 17m band, tuning on 18.120 MHz" data-is-external-image="true"></p>
+<p>Figure 15: 17m band, tuning on 18.120 MHz</p>
+<h3>Ham Radio band: 15m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29782a32-b9a1-4882-8615-4e9e5668e768/15m_-_56A27E01.png" alt="Figure 16: 15m band, tuning on 21.300 MHz" data-is-external-image="true"></p>
+<p>Figure 16: 15m band, tuning on 21.300 MHz</p>
+<h3>Ham Radio band: 12m</h3>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71822f20-0637-4fc1-ac27-a9809cf90756/12m_-_56A27CE8.png" alt="Figure 17: 12m band, tuning on 24.900 MHz" data-is-external-image="true"></p>
+<p>Figure 17: 12m band, tuning on 24.900 MHz</p>
+<h3>Ham Radio band: 10m</h3>
+<p>NOTE: Tuned with coil above the 20 MHz gold mark.</p>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e77d26eb-f90c-4fe1-86dc-0c5a0d5968ed/10m_with_coil_-_56A27AF7.png" alt="Figure 18: 10m band, tuning on 28.400 MHz using the antenna coil displaced to adapt to this band. " data-is-external-image="true"></p>
+<p>Figure 18: 10m band, tuning on 28.400 MHz using the antenna coil displaced to adapt to this band.</p>
+<h3>Ham Radio band: 10m</h3>
+<p>NOTE: Tuned without antenna coil.</p>
+<p>See the “Operational Setup” table above for more details.</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c57cccc-ce68-489e-9ebc-84901471a2db/10m_no_coil_-_56A282FB.png" alt="Figure 19: 10m band, tuning on 28.400 MHz without using the antenna coil, thus, removing all aluminum mast sections." data-is-external-image="true"></p>
+<p>Figure 19: 10m band, tuning on 28.400 MHz without using the antenna coil, thus, removing all aluminum mast sections.</p>
+<p><!-- notionvc: 30bdf713-c9c9-4dad-be24-a90952807dac --></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><!-- notionvc: dbd4086f-0e6d-4c00-ba55-12d9c0c473b1 --></p>
+<p><!-- notionvc: 6845915e-60f2-492d-b493-21022afe1256 --></p>
+<p><!-- notionvc: 328cb44d-0975-4ac1-a23d-80ae45205749 --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Smith charts and their interpretation</title>
+        <author>
+            <name>Jonathan Gonzalez</name>
+        </author>
+        <link href="https://ea1het.com/smith-charts-and-their-interpretation.html"/>
+        <id>https://ea1het.com/smith-charts-and-their-interpretation.html</id>
+
+        <updated>2024-09-22T15:56:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Intro Ham radio hobbyists, as the former term indicate, have been all over the time great technicians, but with exceptions, never professionals on electrical or electronics works and related fields. There are aspects of the radio where the hobbyists rub the professional turf. One of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Intro</h1>
+<p>Ham radio hobbyists, as the former term indicate, have been all over the time great technicians, but with exceptions, never professionals on electrical or electronics works and related fields.</p>
+<p>There are aspects of the radio where the hobbyists rub the professional turf. One of this aspects is antenna design. Until present, the biggest difference between a professional and a hobbyist was the amount of technology available to them, especially measurement equipment. General knowledge was already at hand, as books and encyclopaedias were available to both.</p>
+<p>More in depth on antenna design, both professionals and hobbyist manage similar concepts, like SWR (stationary wave relationship), capacitance or inductance of circuits.</p>
+<p>Nowadays, it’s easy to see a professional using expensive equipment, mostly software based, performing complex calculations, but, there was a point in time where those calculations were done manually using simple tools like a Smith Chart.</p>
+<h1>A bit of history</h1>
+<p>Smith charts were originally developed around 1940 by Phillip Smith as a useful tool for making the equations involved in transmission lines easier to manipulate. With modern computers and the use of software, the Smith chart is no longer used for the calculation of transmission line equations, however, their value in visualising the impedance of an antenna, or a transmission line, has not decreased.</p>
+<p>The Smith chart is a graphical calculator, or nomogram, designed for electrical and electronics engineers specialising in radio frequency (RF) engineering to assist in solving problems with transmission lines and matching circuits. The use of the Smith chart, and the interpretation of the results obtained using it, requires a good understanding of AC circuit theory and transmission-line theory, both of which are prerequisites for RF engineers and, why not, for general radio hobbyists.</p>
+<p>The Smith chart is a fantastic tool for visualising the impedance of a transmission line and antenna system as a function of frequency. Smith charts can be used to increase understanding of transmission lines and how they behave from an impedance viewpoint. Smith charts are also extremely helpful for impedance matching. The Smith chart is used to display an actual (physical) antenna's impedance when measured on a Vector Network Analyser (VNA).</p>
+<h1>Network Analysers</h1>
+<p>In general, a network analyser is an instrument that measures the parameters of electrical networks. Analysers could be of two main types, Scalar Network Analyser (SNA), that measures amplitude properties only, and Vector Network Analyser (VNA), that measures both amplitude and phase properties.</p>
+<p>A Vector Network Analyser (VNA) is a form of RF network analyser widely used for RF design applications. A VNA may also be called a gain–phase meter or an automatic network analyser. An SNA is functionally identical to a spectrum analyser in combination with a tracking generator.</p>
+<p>Nowadays, VNAs are the most common type of network analysers, and so references to an unqualified "network analyser" most often mean a VNA.</p>
+<p>With the advent of software and the cost reduction on materials crafted on China, entry-level devices and do-it-yourself projects have also been available, some for less than $100, mainly from the amateur radio sector. Although these have significantly reduced features compared to professional devices and offer only a limited range of functions, they are often sufficient for private users, especially during studies and for hobby applications up to the single-digit GHz range.</p>
+<h1>S-Parameters (scattering parameters)</h1>
+<p>Scattering parameters, or S-parameters, are popular in RF/Microwave circuit design and testing. Following are scattering parameters used for measuring/characterising an RF device.</p>
+<p>From the Figure 1, beside, following two equations are derived:</p>
+<p>b1 = S11 x a1 + S12 x a2 b2 = S21 x a1 + S22 x a2</p>
+<p>S11 → Reflection coefficient at Port1 S22 → Reflection coefficient at Port2 S12 → Isolation (Reverse) S21 → Insertion loss (passive device case)</p>
+<p><img loading="lazy" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ab2b3cd-511a-4062-b3b9-45281fb659b2/Untitled.png" alt="Figure 1: S-Parameters " data-is-external-image="true"></p>
+<p>Figure 1: S-Parameters</p>
+<p>S-parameters are vector entities which are derived from vector based measurements like magnitude or phase. Following scalar measurements are derived from S-parameters:</p>
+<ul>
+<li>Reflection and incident waves (S-parameters S11 &amp; S22):
+<ul>
+<li>Input SWR</li>
+<li>Return Loss</li>
+<li>VSWR</li>
+<li>Input / output impedance</li>
+<li>Reflection coefficient</li>
+</ul>
+</li>
+<li>Transmission and incident waves (S-parameters S21 &amp; S12):
+<ul>
+<li>Gain / Insertion Loss</li>
+<li>Isolation</li>
+<li>Insertion phase</li>
+<li>Group delay</li>
+<li>Transmission coefficient</li>
+</ul>
+</li>
+</ul>
+<p>As you can see, S-parameters describe the input-output relationship between ports (or terminals) in an electrical system. For example, if we have 2 ports (intelligently called Port 1 and Port 2), then:</p>
+<ul>
+<li>S12 represents the power transferred from Port 2 to Port 1.</li>
+<li>S21 represents the power transferred from Port 1 to Port 2.</li>
+</ul>
+<p>In general, S<em>nm</em> represents the power transferred from Port <em>m</em> to Port <em>n</em> in a multi-port network. These S-parameters are defined in terms of incident and reflected travelling waves.</p>
+<p>As it was argued above, a port can be loosely defined as any place where we can deliver voltage and current. So, if we have a communication system with two radios (radio 1 and radio 2), then the radio terminals (which deliver power to the two antennas) would be the two ports:</p>
+<ul>
+<li>S11 then would be the reflected power radio 1 is trying to deliver to antenna 1.</li>
+<li>S22 would be the reflected power radio 2 is attempting to deliver to antenna 2.</li>
+<li>And S12 is the power from radio 2 that is delivered through antenna 1 to radio 1.</li>
+</ul>
+<p><strong>Note that, while operating with RF equipment, in general S-parameters are a function of frequency,</strong> i.e. vary with frequency. In these scenarios S-parameters are simple to use in analysis. As they are very easy to measure using network analysers, the popularity of the use of such parameters have been increased.</p>
+<p>While working on RF with an analyser will see very often repeated some specific S-parameters which include:</p>
+<ul>
+<li>S11 / S22 —&gt; reflection coefficient</li>
+<li>S12 —&gt; Isolation</li>
+<li>S21 —&gt; Insertion loss</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/3/Screenshot-2024-09-22-at-15.55.27.png" alt="" width="543" height="408" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-xs.png 300w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-sm.png 480w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-md.png 768w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-lg.png 1024w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-xl.png 1360w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.55.27-2xl.png 1600w"></figure>
+<p> </p>
+<p>In practice, the most commonly quoted parameter in regards to antennas is S11. S11 represents how much power is reflected from the antenna, and hence is known as the <strong>reflection coefficient,</strong> sometimes written as <em>gamma</em> or <strong>return loss</strong>.</p>
+<ul>
+<li>If S11 = 0 dB, then all the power is reflected from the antenna and nothing is radiated.</li>
+<li>If S11 = -10 dB, this implies that if 3 dB of power is delivered to the antenna, -7 dB is the reflected power.</li>
+</ul>
+<p>The remainder of the power was "accepted by" or delivered to the antenna. This accepted power is either radiated or absorbed as losses within the antenna. Since antennas are typically designed to be low loss, ideally the majority of the power delivered to the antenna is radiated. The concept of <a href="http://www.antenna-theory.com/definitions/vswr.php">VSWR</a> is directly related to S11.</p>
+<h1>VNAs and the S-parameters</h1>
+<p>A VNA is a test system that enables the RF performance of radio frequency and microwave devices to be characterised in terms of network <a href="https://en.wikipedia.org/wiki/Scattering_parameters">scattering parameters</a>, or S-parameters.</p>
+<p>The diagram shows the essential parts of a typical 2-port vector network analyzer (VNA). The two ports of the <a href="https://en.wikipedia.org/wiki/Device_under_test">device under test</a> (DUT) are denoted port 1 (P1) and port 2 (P2). The test port connectors provided on the VNA itself are precision types which will normally have to be extended and connected to P1 and P2 using precision cables 1 and 2, PC1 and PC2 respectively and suitable connector adaptors A1 and A2 respectively.</p>
+<p>Following the diagram on Figure 1, the test frequency is generated by a variable frequency <a href="https://en.wikipedia.org/wiki/Carrier_wave">CW</a> source and its power level is set using a variable <a href="https://en.wikipedia.org/wiki/Attenuator_(electronics)">attenuator</a>. The position of switch SW1 sets the direction that the test signal passes through the DUT. Initially consider that SW1 is at position 1 so that the test signal is incident on the DUT at P1 which is appropriate for measuring S11 and S21. The test signal is fed by SW1 to the common port of splitter 1, one arm (the reference channel) feeding a reference receiver for P1 (RX REF1) and the other (the test channel) connecting to P1 via the <a href="https://en.wikipedia.org/wiki/Directional_coupler">directional coupler</a> DC1, PC1 and A1. The third port of DC1 couples off the power reflected from P1 via A1 and PC1, then feeding it to test receiver 1 (RX TEST1). Similarly, signals leaving P2 pass via A2, PC2 and DC2 to RX TEST2. RX REF1, RX TEST1, RX REF2 and RXTEST2 are known as <a href="https://en.wikipedia.org/wiki/Coherence_(physics)">coherent</a> receivers as they share the same reference oscillator, and they are capable of measuring the test signal's amplitude <em>and</em> phase at the test frequency.</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/3/Screenshot-2024-09-22-at-15.56.04.png" alt="" width="704" height="487" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-xs.png 300w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-sm.png 480w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-md.png 768w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-lg.png 1024w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-xl.png 1360w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.04-2xl.png 1600w"></figure>
+<p>Figure 1: The basic parts of a vector network analyser.</p>
+<p>All of the complex receiver output signals are fed to a processor which does the mathematical processing and displays the chosen parameters and format on the phase and amplitude display.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Instantaneous">instantaneous</a> value of phase includes both the <a href="https://en.wikipedia.org/wiki/Time">temporal</a> and <a href="https://en.wikipedia.org/wiki/Three-dimensional_space">spatial</a> parts, but the former is removed by virtue of using 2 test channels, one as a reference and the other for measurement.</p>
+<p>When SW1 is set to position 2, the test signals are applied to P2, the reference is measured by RX REF2, reflections from P2 are coupled off by DC2 and measured by RX TEST2 and signals leaving P1 are coupled off by DC1 and measured by RX TEST1. This position is appropriate for measuring S22 and S12.</p>
+<h1>NanoVNA</h1>
+<p>TBD</p>
+<figure class="post__image"><img loading="lazy"  src="https://ea1het.com/media/posts/3/Screenshot-2024-09-22-at-15.56.28.png" alt="" width="708" height="532" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-xs.png 300w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-sm.png 480w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-md.png 768w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-lg.png 1024w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-xl.png 1360w ,https://ea1het.com/media/posts/3/responsive/Screenshot-2024-09-22-at-15.56.28-2xl.png 1600w"></figure>
+<p>Figure 2: Smith chart representation from a NanoVNA device featuring S-parameters on two traces, trace 1 in SWR representation format, and trace 3 for Smith chart representation on R + LC representation</p>
+<p>TBD</p>
+<p><!-- notionvc: f951f3ea-b1c1-4dd0-a03c-bedc478a1176 --></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
